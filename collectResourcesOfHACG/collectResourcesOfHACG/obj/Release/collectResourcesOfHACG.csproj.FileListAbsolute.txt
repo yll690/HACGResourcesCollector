@@ -1,0 +1,6 @@
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\bin\Release\collectResourcesOfHACG.exe.config
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\bin\Release\collectResourcesOfHACG.exe
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\bin\Release\collectResourcesOfHACG.pdb
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\obj\Release\collectResourcesOfHACG.exe
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\obj\Release\collectResourcesOfHACG.pdb
+E:\programming\C#\collectResourcesOfHACG\collectResourcesOfHACG\obj\Release\collectResourcesOfHACG.csprojResolveAssemblyReference.cache
